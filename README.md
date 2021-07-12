@@ -26,30 +26,38 @@ Divided the project in three steps:
 3. Conversation post meeting
 
 ---
-## Screenshots
+# Screenshots
 ---
-### Entering Chat Room
+---
+### *Entering Chat Room
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/chat-before-meeting.png)
-
-### Peers Chatting pre-meeting
+---
+---
+### *Peers Chatting pre-meeting
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/peers-chatting-pre-meeting.png)
-
-### Multi-User Video-calling
+---
+---
+### *Multi-User Video-calling
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/video-calling.png)
-
-### Screen-sharing
+---
+---
+### *Screen-sharing
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/screen-sharing.png)
-
-### Chat after meeting
+---
+---
+### *Chat after meeting
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/chat-after-meeting.png)
-
-### Peers Chatting Post Meeting
+---
+---
+### *Peers Chatting Post Meeting
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/peers-chatting-post-meeting.png)
-
-### Page After Leaving Room 
+---
+---
+### *Page After Leaving Room 
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/last-page.png)
-
-**Hope you liked this simple and easy-to-use project**
+---
+---
+**Hope you liked this simple and easy-to-use project. **
 **Please star the repo if you liked the project**
 
 
