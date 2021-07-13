@@ -30,7 +30,7 @@ And merged them together for continuous flow of application.
 # Screenshots
 ---
 ---
-### *Entering Chat Room
+### *Entering Chat Room for chatting before meeting
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/chat-before-meeting.png)
 ---
 ---
@@ -46,7 +46,7 @@ And merged them together for continuous flow of application.
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/screen-sharing.png)
 ---
 ---
-### *Chat after meeting
+### *Continue Conversation after meeting
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/chat-after-meeting.png)
 ---
 ---
