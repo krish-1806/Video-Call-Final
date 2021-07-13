@@ -42,16 +42,29 @@ Divided the project in three steps:
 * MomentJS  
 * Websocket  
 ---  
-**Node.js**- It is a runtime enviroment that allows us to run JavaScript code independent of web browser.  
-**ExpressJS**- It is a server framework for Node.js. I used it to run the video chat server.  
-**Socket.io**- It is a JavaScript library for creating real-time communication apps. I used the server-side library to manage communication between users.  
-**PeerJS**- It provides free cloud service that I used to host the rooms.  
-**uuid**- It is a javascript library that is used to create unique Id for the rooms.  
-**EJS**- It allows us to render and serve HTML files from our Express server. it is where the videos will be shown.  
-**MomentJS**- It is a JavaScript library that I used to display date in the chat section.  
-**Websocket**- I used this WebsocketAPI for persistent connection between client and server.  
----  
+*Node.js*- It is a runtime enviroment that allows us to run JavaScript code independent of web browser.  
   
+*ExpressJS*- It is a server framework for Node.js. I used it to run the video chat server.  
+  
+*Socket.io*- It is a JavaScript library for creating real-time communication apps. I used the server-side library to manage communication between users. Framework for dealing with websockets.  
+  
+*PeerJS*- It provides free cloud service that I used to host the rooms.  
+  
+*uuid*- It is a javascript library that is used to create unique Id for the rooms.  
+  
+*EJS*- It allows us to render and serve HTML files from our Express server. it is where the videos will be shown.  
+  
+*MomentJS*- It is a JavaScript library that I used to display date in the chat section.  
+  
+*Websocket*- I used this WebsocketAPI for persistent connection between client and server.
+  
+---
+  
+## FlowChart
+![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/FlowDiagram.png)
+  
+---  
+
 # Screenshots
 ---
 ---
