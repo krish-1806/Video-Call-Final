@@ -24,6 +24,7 @@ Divided the project in three steps:
 1. Video Call- to complete the minimum requirement of project and then adding features to it like mute/unmute audio and video and screen sharing.
 2. Conversation before start of the meeting 
 3. Conversation post meeting
+And merged them together for continuous flow of application.
 
 ---
 # Screenshots
