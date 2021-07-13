@@ -40,6 +40,10 @@ Divided the project in three steps:
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/peers-chatting-pre-meeting.png)
 ---
 ---
+### *Instant notification of someone joining and leaving the chat room
+![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/Instant-notifi-of-joining-and-leaving-chat.png)
+---
+---
 ### *Multi-User Video-calling
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/video-calling.png)
 ---
@@ -50,10 +54,6 @@ Divided the project in three steps:
 ---
 ### *Continue Conversation after meeting
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/chat-after-meeting.png)
----
----
-### *Instant notification of someone joining and leaving the chat room
-![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/Instant-notifi-of-joining-and-leaving-chat.png)
 ---
 ---
 ### *Peers Chatting Post Meeting
