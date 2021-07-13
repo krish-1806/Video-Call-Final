@@ -8,14 +8,16 @@ Realtime face to face communication using **Socket.io, Peer.js, Node.js, Express
 ---
 * Multi-user Video Calling
 * Real time chat while video calling
-* Instant notification of somebody connecting to the video call 
+* Chatting before start of the meeting
+* Continue the conversation after the meeting
 * Mute/Unmute audio
 * Switch On/Off video
 * Screen Sharing
-* Chatting before start of the meeting
+* Instant notification of somebody connecting to the video call
+* Option to start video call directly in beginning or chat before meeting
 * Easy 'log in' in the chat room 
 * Instant notification of someone joining and leaving the chat
-* Continue the conversation after the meeting
+* Option to leave after video call or continue conversation after the meeting 
 * Neat and Clean UI
 ---
 # Agile Methodology Used
@@ -24,7 +26,7 @@ Divided the project in three steps:
 1. Video Call- to complete the minimum requirement of project and then adding features to it like mute/unmute audio and video and screen sharing.
 2. Conversation before start of the meeting 
 3. Conversation post meeting
-And merged them together for continuous flow of application.
+4. And merged them together for continuous flow of application.
 
 ---
 # Screenshots
@@ -50,6 +52,10 @@ And merged them together for continuous flow of application.
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/chat-after-meeting.png)
 ---
 ---
+### *Instant notification of someone joining and leaving the chat room
+![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/Instant-notifi-of-joining-and-leaving-chat.png)
+---
+---
 ### *Peers Chatting Post Meeting
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/peers-chatting-post-meeting.png)
 ---
@@ -59,6 +65,7 @@ And merged them together for continuous flow of application.
 ---
 ---
 **Hope you liked this simple and easy-to-use project. **
+
 **Please star the repo if you liked the project**
 
 
