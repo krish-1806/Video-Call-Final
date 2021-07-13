@@ -3,6 +3,8 @@
 Realtime face to face communication using **Socket.io, Peer.js, Node.js, Express, EJS and Vanilla JS with a custom UI**. 
 
 **Project Link** : https://chat-videocall-chat.herokuapp.com/
+---  
+**Project Demo Link** : https://youtu.be/3qMr_6Fld3Y
 ---
 ### Features
 ---
@@ -29,6 +31,27 @@ Divided the project in three steps:
 4. And merged them together for continuous flow of application.
 
 ---
+  
+## Tech Used:
+* Node.js  
+* ExpressJS  
+* Socket.io  
+* PeerJS  
+* uuid  
+* EJS   
+* MomentJS  
+* Websocket  
+---  
+**Node.js**- It is a runtime enviroment that allows us to run JavaScript code independent of web browser.  
+**ExpressJS**- It is a server framework for Node.js. I used it to run the video chat server.  
+**Socket.io**- It is a JavaScript library for creating real-time communication apps. I used the server-side library to manage communication between users.  
+**PeerJS**- It provides free cloud service that I used to host the rooms.  
+**uuid**- It is a javascript library that is used to create unique Id for the rooms.  
+**EJS**- It allows us to render and serve HTML files from our Express server. it is where the videos will be shown.  
+**MomentJS**- It is a JavaScript library that I used to display date in the chat section.  
+**Websocket**- I used this WebsocketAPI for persistent connection between client and server.  
+---  
+  
 # Screenshots
 ---
 ---
@@ -64,10 +87,10 @@ Divided the project in three steps:
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/last-page.png)
 ---
 ---
-## Steps to Run Locally
-npm init  
+## Steps to Run the application locally
 npm i  
 node server.js  
+  
 **Hope you liked this simple and easy-to-use project.**
 
 **Please star the repo if you liked the project**
