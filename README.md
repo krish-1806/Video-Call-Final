@@ -64,6 +64,10 @@ Divided the project in three steps:
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/last-page.png)
 ---
 ---
+## Steps to Run Locally
+npm init  
+npm i  
+node server.js  
 **Hope you liked this simple and easy-to-use project.**
 
 **Please star the repo if you liked the project**
