@@ -64,7 +64,7 @@ Divided the project in three steps:
 ![alt text](https://github.com/krish-1806/Video-Call-Final/blob/main/Screenshots/last-page.png)
 ---
 ---
-**Hope you liked this simple and easy-to-use project. **
+**Hope you liked this simple and easy-to-use project.**
 
 **Please star the repo if you liked the project**
 
