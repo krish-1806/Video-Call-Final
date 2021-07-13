@@ -1,6 +1,6 @@
 # Video Call + Chat= Distances get shorter
 ---
-Realtime face to face communication using **Socket.io, Peer.js, Node.js, Express, EJS and Vanilla JS with a custom UI**. 
+Realtime face to face communication using **Socket.io, Peer.js, Node.js, Express, EJS and VanillaJS with a custom UI**. 
 
 **Project Link** : https://chat-videocall-chat.herokuapp.com/
 ---  
